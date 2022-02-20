@@ -1,0 +1,10 @@
+Theme #1
+Data Analytics
+
+​
+
+Challenge your skills on data processing and analysis by creating an accurate weather prediction model for the F1 2021 videogame.
+
+​
+
+Target Audience: Data Scientists, Data Engineers, Python Developers, AI/ML Engineers (Prerequisites: None)
